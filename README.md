@@ -35,17 +35,7 @@ This project was created to:
 
 ## 📸 Preview
 
-> Add screenshots or a link to the live site here
-
-## 📁 How to Use
-
-1. Clone or download the repository.
-2. Open `index.html` in your browser.
-3. Enjoy the retro coffee vibes.
-
-## 📝 License
-
-This project is open for inspiration and educational use. Customize it, improve it, or just enjoy it as-is!
+https://tasneem357mohamed.github.io/Project_1/
 
 ---
 
