@@ -9,10 +9,10 @@ Welcome to **Retro Roast**, a cozy online coffee shop handcrafted using only **o
 
 Retro Roast is designed to offer a simple yet charming coffee shop experience. It features:
 
-- 📜 Static web pages built with vintage HTML
-- 🎨 Styling using old-school CSS (no flexbox, no grid!)
-- 🖼️ Aesthetic that blends early 2000s web charm with cozy café vibes
-- ☕ A classic menu, warm colors, and pixel-perfect details
+- Static web pages built with vintage HTML
+- Styling using old-school CSS (no flexbox, no grid!)
+- Aesthetic that blends early 2000s web charm with cozy café vibes
+- A classic menu, warm colors, and pixel-perfect details
 
 ## 🛠️ Tech Stack
 
@@ -21,9 +21,9 @@ Retro Roast is designed to offer a simple yet charming coffee shop experience. I
 
 ## 🚫 What You Won't Find
 
-- ❌ JavaScript
-- ❌ Modern CSS features (no flexbox, grid, variables)
-- ❌ Responsive design (old-school, desktop-first)
+- JavaScript
+- Modern CSS features (no flexbox, grid, variables)
+- Responsive design (old-school, desktop-first)
 
 ## 🎯 Purpose
 
